@@ -1,0 +1,17 @@
+com\jarvis\firebase\FirestoreValueCodec.class
+com\jarvis\firebase\FirebaseExample.class
+com\jarvis\actions\ProcessRegistry.class
+com\jarvis\actions\GestureActionMapping.class
+com\jarvis\actions\impl\OpenFolderAction.class
+com\jarvis\firebase\AuthService$AuthResult.class
+com\jarvis\firebase\FirebaseSettings.class
+com\jarvis\actions\impl\OpenAppAction.class
+com\jarvis\actions\impl\MouseClickAction.class
+com\jarvis\firebase\AuthService.class
+com\jarvis\actions\ActionExecutor.class
+com\jarvis\actions\GestureAction.class
+com\jarvis\actions\impl\CloseAppAction.class
+com\jarvis\actions\ActionType.class
+com\jarvis\actions\ActionFactory.class
+com\jarvis\firebase\GestureCloudRepository.class
+com\jarvis\actions\impl\KeyboardShortcutAction.class

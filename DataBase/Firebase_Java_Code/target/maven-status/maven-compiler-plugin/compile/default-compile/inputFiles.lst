@@ -1,0 +1,16 @@
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\ActionExecutor.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\ActionFactory.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\ActionType.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\GestureAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\GestureActionMapping.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\impl\CloseAppAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\impl\KeyboardShortcutAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\impl\MouseClickAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\impl\OpenAppAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\impl\OpenFolderAction.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\actions\ProcessRegistry.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\firebase\AuthService.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\firebase\FirebaseExample.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\firebase\FirebaseSettings.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\firebase\FirestoreValueCodec.java
+E:\Marcelo\Code\Java\Jarvis\DataBase\Firebase_Java_Code\src\main\java\com\jarvis\firebase\GestureCloudRepository.java

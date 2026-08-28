@@ -1,0 +1,17 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Cada usuário só pode ler/escrever dentro da própria subárvore
+    // users/{seu_uid}/gestures/{...} — nunca na de outro usuário.
+    match /users/{userId}/gestures/{gestureId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // (opcional) dados de perfil do próprio usuário, se um dia precisar
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}
